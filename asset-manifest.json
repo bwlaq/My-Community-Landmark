@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-community-landmark/static/css/main.cb72eb49.chunk.css",
+    "main.js": "/my-community-landmark/static/js/main.30f0f30f.chunk.js",
+    "main.js.map": "/my-community-landmark/static/js/main.30f0f30f.chunk.js.map",
+    "runtime-main.js": "/my-community-landmark/static/js/runtime-main.8789f8ec.js",
+    "runtime-main.js.map": "/my-community-landmark/static/js/runtime-main.8789f8ec.js.map",
+    "static/js/2.f8d27993.chunk.js": "/my-community-landmark/static/js/2.f8d27993.chunk.js",
+    "static/js/2.f8d27993.chunk.js.map": "/my-community-landmark/static/js/2.f8d27993.chunk.js.map",
+    "static/js/3.876328ae.chunk.js": "/my-community-landmark/static/js/3.876328ae.chunk.js",
+    "static/js/3.876328ae.chunk.js.map": "/my-community-landmark/static/js/3.876328ae.chunk.js.map",
+    "index.html": "/my-community-landmark/index.html",
+    "static/css/main.cb72eb49.chunk.css.map": "/my-community-landmark/static/css/main.cb72eb49.chunk.css.map",
+    "static/js/2.f8d27993.chunk.js.LICENSE.txt": "/my-community-landmark/static/js/2.f8d27993.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8789f8ec.js",
+    "static/js/2.f8d27993.chunk.js",
+    "static/css/main.cb72eb49.chunk.css",
+    "static/js/main.30f0f30f.chunk.js"
+  ]
+}
