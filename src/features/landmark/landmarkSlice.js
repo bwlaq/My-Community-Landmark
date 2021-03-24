@@ -7,11 +7,11 @@ export const landmarkSlice = createSlice({
             {
                 name: 'Test Landmark 1 ',
                 editor: 'Editor 1',
-                note: 'Foo'
+                note: 'This is my favorite landmark.'
             }, {
                 name: 'Test Landmark 2 ',
                 editor: 'Editor 2',
-                note: 'Bar'
+                note: 'This is my second favorite landmark.'
             }
         ]
 

@@ -13,7 +13,7 @@ function App() {
   }
   return (
     <div>
-      <h1>My Community Landmark</h1>
+      <h1 className='App'>My Community Landmark</h1>
       <div className="container">
         <Map />
         <Landmark />
